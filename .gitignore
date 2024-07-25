@@ -295,6 +295,6 @@ pip-selfcheck.json
 .ionide
 
 ### CK: VSCode workspace
-.code-workspace
+*.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,django,virtualenv
