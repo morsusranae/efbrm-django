@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class Rm01Config(AppConfig):
+class App_ndviConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'rm01'
+    name = 'app_ndvi'
